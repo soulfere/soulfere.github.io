@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "JavaWeb技术拓荒"
+---
+
+*慢慢建立起自己的数字世界观．*
+
+---
+
+<br />
+
+- 构建工具Maven：用来进行项目依赖管理．
+- MOCK(Jmockit)：进行自动化测试，测试环境隔离．
+- Mybatis：持久层框架．
+- 测试驱动开发：基于Mock，为不存在的代码创建测试． 
+- Spring框架：非侵入式模块化分层Web框架，JavaBean的生命周期管理，@标签注入．
+- jQueryAJAX
+- WebSocket：实现服务器端向客户端主动推送数据．

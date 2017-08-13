@@ -1,0 +1,40 @@
+# Site settings
+title: Soulfere's Blog
+email: soulfere1314@126.com
+description: > # this means to ignore newlines until "baseurl:"
+  路远车慢。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  Soulfere
+
+# Build settings
+markdown:      kramdown
+markdown_ext:  markdown,mkd,mkdn,md
+textile_ext:   textile
+
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_engine: blahtex
+  png_dir:    images/latex
+  png_url:    /images/latex
+  fenced_code_blocks: true
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  use_coderay: false
+  input: GFM
+
+#Gems
+gems: [jekyll-paginate]
+
+#Pagination
+paginate: 5
+paginate_path: "page:num"
+
+sass: 
+  sass_dir: _sass

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "一些学习站点"
+---
+
+*记录一些学习的站点*
+
+---
+
+<br />
+
+1. [鸟哥的Linux私房菜](http://linux.vbird.org)
+2. [Linux Filesystem Hierarchy](http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/)
+3. [指尖流淌](http://www.cnblogs.com/zhijianliutang/)
+4. [孤傲苍狼](https://www.cnblogs.com/xdp-gacl/)
+5. [阮一峰的网络日志](https://www.ruanyifeng.com)
+6. [JS入门](http://www.javascript.com/)
+7. [MDN(Mozilla 开发者网络)](https://developer.mozilla.org/zh-CN/)
+8. [日语入门](http://www.riyurumen.com/)
+9. [日语学习](http://jp.tingroom.com/)
+10. [Liquid模板引擎](https://shopify.github.io/liquid/tags/control-flow/)
