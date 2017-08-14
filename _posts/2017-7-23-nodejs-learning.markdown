@@ -22,6 +22,9 @@ title:  "Node.js学习笔记"
      - Node.js程序入口，请求过滤，路由处理（Express中间件的概念）
      - 解释顺序自上而下，注意请求的处理顺序
    - ORM框架
+     - ORM(Object Relational Mapping)，主要实现程序对象到关系数据库数据的映射
+       - 数据表映射成类，表的字段为类的成员变量
+       - 包含对持久类对象进行CRUD操作的API
      - sequelize :  封装简单的CRUD
    - Session处理
      - express-session
