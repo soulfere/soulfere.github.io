@@ -19,3 +19,6 @@ title:  "一些学习站点"
 8. [日语入门](http://www.riyurumen.com/)
 9. [日语学习](http://jp.tingroom.com/)
 10. [Liquid模板引擎](https://shopify.github.io/liquid/tags/control-flow/)
+11. [Struts与MVC概念](https://github.com/apache/struts)
+12. [Java文章](http://www.importnew.com/)
+13. [Server.xml Content.xml Web.xml](http://blog.csdn.net/wclxyn/article/details/6969312)
