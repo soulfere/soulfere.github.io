@@ -14,3 +14,9 @@ title:  "Git命令总结"
    - git branch -D master（删除原分支）
    - git branch -m master（重命名现分支）
    - git push -f origin master（强行推到远端仓库）
+ - 修改前次Commit注释
+   - git commit --amend （修改前次Commit注释）
+   - git push -f （强行推到远端仓库）
+ - 已经Commit但没有Push，想撤销Commit
+   - git log（查看log，找到Commit的代号）
+   - git reset --hard CommitId（把头重置到某次Commit）
