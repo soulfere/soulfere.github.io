@@ -4,8 +4,14 @@ title: 关于本站
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+这是从一个码农到一个合格程序员的成长日记。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+刚入这行一年，兴趣很大，玩心很大，很难踏踏实实静下来钻研一些东西。
+从基础的HTML+CSS，到jQuery、Node.js、HTML5。
+从Seasar2，到Android应用。
+接触的东西很多，也在公司踉踉跄跄的完成了些漏洞百出的半成品。
+接下来可能就是视觉、机器人。
+我还在不断尝试。
+希望不要一边学，一边忘。
+要不忘初心，一步一步坚持走下去。
