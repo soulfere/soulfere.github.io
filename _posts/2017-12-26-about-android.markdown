@@ -15,3 +15,10 @@ title:  "Android学习笔记"
    - Activity的切换与画面之间的传参（引入Intent声明切换的上下文，并进行Activity的切换，Bundle对象的引入方便批量传参）
  - Fragment的认识
    - 如果画面的一个位置想更换显示内容（类似微信标签页），同时又不想写多个Activity时，可以把切换的内容写成Fragment（后补代码）
+ - 二维码识别方案
+   - zxing:https://github.com/zxing/zxing
+   - 基于zxing的简化版本：https://github.com/richardwei195/libzxing
+ - 关于打包apk发布
+   - 包名小写
+   - signature的v1,v2都勾上
+   - 注意配置Gradle的minSdkVersion
