@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Angular学习" 
+title:  "Angular学习(一)" 
 ---
 
 <br />
