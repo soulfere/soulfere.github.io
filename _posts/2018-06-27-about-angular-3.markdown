@@ -35,4 +35,3 @@ title:  "Angular学习(三)"
 
  * 使用```<div *ngIf="selectedHero"></div>```包括的内容，当```selectedHero```为空时，该元素将被隐藏，里面可跟表达式
  * ```[class.some-css-class]="some-condition"```：当选择项目满足条件时，应用等号左边的class，不满足条件时，自动移除该class
- * 
