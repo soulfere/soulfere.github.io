@@ -26,3 +26,4 @@ title:  "API Server 搭建手顺"
   - 调用时，将构造函数中传入的```Context```赋值给刚才创建的 ```private``` 变量，使用```private```变量的方法来进行增删查改
   - 例如查询时，使用```var myEntity = myContext.TableName.Find(pkey)```来根据主KEY查询到表的Entity
   - 根据```myEntity.myColumn```来获取字段值
+  - API Server部署时，在IIS中添加允许IP，并要关闭系统防火墙（！！！）否则局域网内其他设备无法访问到应用！

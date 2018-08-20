@@ -15,7 +15,6 @@ Angular中，所谓依赖注入（DI），就是把服务作为依赖注入到�
 
 
 Provider的概念：
-
 Provider是依赖生成的依据，在注入（使用）依赖时，应该在Module或者Component中指定提供者，注入器根据提供者创建依赖实例
 
 
