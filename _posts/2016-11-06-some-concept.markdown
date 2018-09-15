@@ -20,3 +20,5 @@ title:  "几个简单概念辨析和理解"
   - StringBuffer线程安全，StringBuilder非线程安全但是速度较前者更快．
   - StringBuilder用作StringBuffer的一个简易替换，用在字符串缓冲区被**单个线程**使用的时候．
   - StringBuilder进行带有换行的字符串拼接时，会**保持原有的换行**，而String会把一切拼到一行去．
+* 一个很蠢的JSP问题
+  - Servlet对于WEB-INF文件夹有保护作用，所以如果你把JSP文件放到这个文件夹，而不是直接放到WebContent里，那么到死都是404...
