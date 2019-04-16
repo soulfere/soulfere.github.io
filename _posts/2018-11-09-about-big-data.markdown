@@ -45,6 +45,6 @@ title:  "大数据入坑"
 
  - 既然 Hive + MapReduce = Presto，那么为什么还要用Presto来调用Hive呢？
 
-
-
-   
+ - 参考资料
+   - [Hive学习](https://www.cnblogs.com/netuml/p/7841387.html)
+   - [使用Docker部署Hadoop环境和Presto](https://www.cnblogs.com/liujinhong/p/8795387.html)
