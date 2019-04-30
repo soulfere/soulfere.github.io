@@ -3,7 +3,7 @@ layout: post
 title:  "可复用代码片段" 
 ---
 
-**记录可复用的常用代码片段，持续更新**
+*记录可复用的常用代码片段，持续更新*
 
 ---
 <br />
@@ -164,7 +164,8 @@ import java.util.Properties;
 private static final Properties prop = new Properties();
 
 // 从项目文件中读取配置文件
-// 这里注意，如果getResourceAsStream()里直接写配置文件名，那么配置文件要放到src文件夹（这个文件夹是项目设置中设置的代码文件夹，即ClassPath根）下的首层位置，不要放到其他包下
+// 这里注意，如果getResourceAsStream()里直接写配置文件名，那么配置文件要放到src文件夹
+// （这个文件夹是项目设置中设置的代码文件夹，即ClassPath根）下的首层位置，不要放到其他包下
 prop.load(Config.class.getClassLoader().getResourceAsStream("constant.properties"));
 
 // 使用getProperty方法，获取属性
